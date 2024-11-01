@@ -1,0 +1,18 @@
+
+.rodape {
+    padding: 20px;
+    background-color: #051341;
+    text-align: center;
+    color: #ffffff;
+}
+
+.rodape p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+.contato {
+    margin-bottom: 20px;
+}

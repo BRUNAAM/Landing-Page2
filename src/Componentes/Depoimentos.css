@@ -1,0 +1,35 @@
+
+.depoimentos {
+    padding: 60px 20px;
+    background-color: #051341;
+    text-align: center;
+}
+
+.depoimentos h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
+.depoimento-item {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ff4801;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #051341;
+}
+
+.depoimento-item p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #051341;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.depoimento-item p strong {
+    font-weight: bold;
+}
